@@ -1,13 +1,5 @@
 # Internet Outage Duration Prediction
 
-1. Libraries Used
-2. EDA
-3. Machine Learning Methods
-4. Machine Learning Methods with SMOTE
-5. Deep learning method with SMOTE
-
----
-
 ## 1. Libraries Used
 
 - numpy
