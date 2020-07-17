@@ -6,6 +6,8 @@
 4. Machine Learning Methods with SMOTE
 5. Deep learning method with SMOTE
 
+---
+
 ## 1. Libraries Used
 
 - numpy
